@@ -1,5 +1,13 @@
 # Change Detection in Sea Surface Temperature of Baltic Sea using JavaScript
 
+## Links for the project
+
+- Comparison in years
+https://code.earthengine.google.com/e6e16754cc81180c0e367ffba3cc6c8a
+
+- Comparison in data
+https://code.earthengine.google.com/be94651dc1a91a762e22ab5d395741ee
+
 ## Introduction
 Sea surface temperature (SST) is the ocean surface temperature and is a very crucial physical aspect of the planet’s oceans. Temperature of the sea measured varies from methods of surface consideration, but it is between 1 millimeter to up to 7 feet which is 20 meters under the sea surface. The present paper discusses the constant changes over the past few decades on Sea surface temperature due to significant variations in the environment caused by anthropogenic and natural factors on Baltic Sea. Baltic Sea which is considered as a study region because the increasing trend of temperature is relatively high than the world average trend of increase. For identifying and determining the changes from 2000 to 2020, Cloud based platform of Google earth engine is being considered for the analysis. For detection of Sea surface temperature advanced remote sensing and GIS technologies had proved to be very efficient for visualization due to high resolution data. The paper had analyzed a rapid increase in temperature over the years. This analysis will help researchers and scientist for multiple climatic studies and process of decision-making.
 
