@@ -1,5 +1,4 @@
-# Change Detection in Sea Surface Temperature of Baltic Sea using JavaScript
-
+# Change Detection in Sea Surface Temperature of Baltic Sea using Google Earth Engine (JavaScript)
 ## Links for the project
 
 - Comparison in years
